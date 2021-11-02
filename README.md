@@ -1,5 +1,5 @@
 # Walmart_sales-analysis_Forecast
-Breve descrição das colunas do Dataset
+Breve descrição das colunas do Dataset<br>
 Store - Número da loja
 Date - Semana de vendas
 Weekly_Sales - Venda da loja na semana
